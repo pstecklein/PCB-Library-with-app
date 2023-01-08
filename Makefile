@@ -1,0 +1,2 @@
+all:
+		g++ -std=c++20 app/main.cpp app/exercise/modes.cpp src/chips/controller.cpp src/chips/sensor.cpp src/inventory.cpp src/portionStructures/sensorPortions.cpp src/data_collection.cpp drivers/bus.cpp -o example
