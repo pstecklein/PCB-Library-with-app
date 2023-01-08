@@ -1,9 +1,6 @@
-# embeddedProblem
-
-To test:
+To run:
 
 ```console
-$ cd embeddedProblem
 $ make
 $ ./example
 ```
